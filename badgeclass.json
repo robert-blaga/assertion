@@ -4,7 +4,7 @@
   "id": "https://robert-blaga.github.io/assertion/badgeclass.json",
   "name": "EU AI Act – Article 4 AI-Literacy",
   "description": "Proof that the holder meets AI-literacy competences per EU AI Act Art. 3(56).",
-  "image": "https://robert-blaga.github.io/assertion/badge.png",   ← put any 400×400 PNG here
+  "image": "https://robert-blaga.github.io/assertion/AI_Literacy_Badge_for_GitHub.png",
   "criteria": {
     "narrative": "Completion of 7-day fast-track · ≥80 % test · sandbox task pass"
   },
