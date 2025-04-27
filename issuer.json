@@ -1,1 +1,9 @@
-https://robert-blaga.github.io/assertion/badgeclass.json
+{
+  "issuer": {
+    "type": "Issuer",
+    "id": "https://robert-blaga.github.io/assertion/issuer.json",
+    "name": "Brainiup Training.",
+    "url": "https://brainiup.com",
+    "email": "compliance@brainiup.com"
+  }
+}
