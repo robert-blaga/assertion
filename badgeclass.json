@@ -4,14 +4,9 @@
   "id": "https://robert-blaga.github.io/assertion/badgeclass.json",
   "name": "EU AI Act – Article 4 AI-Literacy",
   "description": "Proof that the holder meets AI-literacy competences per EU AI Act Art. 3(56).",
-  "issuer": {
-    "type": "Issuer",
-    "id": "https://robert-blaga.github.io/assertion/issuer.json",
-    "name": "Brainiup Training.",
-    "url": "https://brainiup.com",
-    "email": "compliance@brainiup.com"
-  },
+  "image": "https://robert-blaga.github.io/assertion/badge.png",   ← put any 400×400 PNG here
   "criteria": {
     "narrative": "Completion of 7-day fast-track · ≥80 % test · sandbox task pass"
-  }
+  },
+  "issuer": "https://robert-blaga.github.io/assertion/issuer.json"
 }
