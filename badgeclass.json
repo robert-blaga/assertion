@@ -7,9 +7,9 @@
   "issuer": {
     "type": "Issuer",
     "id": "https://robert-blaga.github.io/assertion/issuer.json",
-    "name": "Acme AI Literacy Training Ltd.",
-    "url": "https://acme-training.eu",
-    "email": "compliance@acme-training.eu"
+    "name": "Brainiup Training.",
+    "url": "https://brainiup.com",
+    "email": "compliance@brainiup.com"
   },
   "criteria": {
     "narrative": "Completion of 7-day fast-track · ≥80 % test · sandbox task pass"
