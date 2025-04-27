@@ -8,7 +8,7 @@
     "salt": "demo123",
     "identity": "sha256$d77311f0cdcf03deca152092ac0648b68574c335382e0bf12e65a14d6d3576db"
   },
-  "badge": "urn:uuid:88798bfd-57d3-458b-9d6c-b75e3c8dacfd",
+  "badge": "https://robert-blaga.github.io/assertion/badgeclass.json",
   "issuedOn": "2025-04-27T21:29:26Z",
   "verification": {
     "type": "HostedBadge"
