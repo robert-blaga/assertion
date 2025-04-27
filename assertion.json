@@ -8,11 +8,12 @@
     "salt": "demo123",
     "identity": "sha256$d77311f0cdcf03deca152092ac0648b68574c335382e0bf12e65a14d6d3576db"
   },
-  "badge": "urn:uuid:12345678-aaaa-bbbb-cccc-1234567890ab",   ← leave as URN for now
-  "issuedOn": "2025-04-29T00:00:00Z",
+  "badge": "urn:uuid:REPLACE-WITH-SAME-UUID-AS-IN-PNG",
+  "issuedOn": "<same timestamp as PNG>",
   "verification": { "type": "HostedBadge" },
   "evidence": [
     "https://robert-blaga.github.io/assertion/test-score.pdf"
   ]
 }
+
 
