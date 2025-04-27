@@ -1,19 +1,18 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "<YOUR-URL>/assertion.json",
+  "id": "https://robert-blaga.github.io/assertion/assertion.json",
   "recipient": {
     "type": "email",
     "hashed": true,
     "salt": "demo123",
     "identity": "sha256$d77311f0cdcf03deca152092ac0648b68574c335382e0bf12e65a14d6d3576db"
   },
-  "badge": "<YOUR-URL>/badgeclass.json",
+  "badge": "urn:uuid:12345678-aaaa-bbbb-cccc-1234567890ab",   ← leave as URN for now
   "issuedOn": "2025-04-29T00:00:00Z",
-  "verification": {
-    "type": "HostedBadge"
-  },
+  "verification": { "type": "HostedBadge" },
   "evidence": [
-    "<YOUR-URL>/evidence/test-score.pdf"
+    "https://robert-blaga.github.io/assertion/test-score.pdf"
   ]
 }
+
