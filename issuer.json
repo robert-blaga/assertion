@@ -1,9 +1,8 @@
 {
-  "issuer": {
-    "type": "Issuer",
-    "id": "https://robert-blaga.github.io/assertion/issuer.json",
-    "name": "Brainiup Training.",
-    "url": "https://brainiup.com",
-    "email": "compliance@brainiup.com"
-  }
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://robert-blaga.github.io/assertion/issuer.json",
+  "name": "Brainiup Training",
+  "url": "https://brainiup.com",
+  "email": "compliance@brainiup.com"
 }
